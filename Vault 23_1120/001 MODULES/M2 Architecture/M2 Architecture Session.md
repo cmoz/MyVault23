@@ -1,16 +1,17 @@
-Session One [[RAM registers]] Friday Sept 22
+Session One [[1 RAM registers]] Friday Sept 22
 
-Session Two [[Gates and Logic, Circuits One]] Monday Sept 25
+Session Two [[2 Gates and Logic, Circuits One]] Monday Sept 25
 
-LAB [[RAM registers encoding]] Tuesday Sept 26
+LAB [[Week 4 LAB RAM registers encoding]] Tuesday Sept 26
 
-Session Three [[Multiplexer Combinational and Sequential Circuits]] Wednesday Sept 27
+Session Three [[3 Multiplexer Combinational and Sequential Circuits]] Wednesday Sept 27
 
-Session Four [[ALU]] Friday Sept 29
+Session Four [[4 ALU]] Friday Sept 29
 
-LAB [[Gates Multiplexer Combinational Sequential Circuits]] Oct 3
+LAB [[Week 5 LAB Gates Multiplexer Combinational Sequential Circuits]] Oct 3
 
-SUMMARY [[Module 2 Architecture Session Summary]] Wednesday Oct 11
+Session Five [[5 ALU Mem Tracing]] Friday Oct 6
 
+[[Week 6 LAB ALU Mem tracing]] Tuesday Oct 10
 
-
+SUMMARY [[Module 2 Architecture Summary Session]] Wednesday Oct 11

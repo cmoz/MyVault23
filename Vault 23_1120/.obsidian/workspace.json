@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md"
+                "file": "CALENDAR SESSION OVERVIEW.md"
               }
             }
           },
@@ -184,42 +184,42 @@
   },
   "active": "8f82030de6adc946",
   "lastOpenFiles": [
-    "Linked_Content/M3/Execution.md",
-    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
-    "Linked_Content/M3/LAB ALU Mem tracing.md",
-    "Linked_Content/M3/ALU Mem Tracing.md",
-    "Linked_Content/M3",
-    "001 MODULES/M2 Architecture/Module 2 Test.md",
-    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
-    "Linked_Content/M2/Module 2 Architecture Session Summary.md",
-    "Linked_Content/M2/Gates Multiplexer Combinational Sequential Circuits.md",
-    "Linked_Content/M2/ALU.md",
-    "Linked_Content/M2/Multiplexer Combinational and Sequential Circuits.md",
-    "Linked_Content/M2/RAM registers encoding.md",
-    "Linked_Content/M2/Gates and Logic, Circuits One.md",
-    "Linked_Content/M2/RAM registers.md",
-    "Gates, Multiplexer/Combinational/Sequential Circuits.md",
-    "LAB ALU/Mem tracing.md",
-    "LAB ALU",
+    "001 MODULES/M4 Memory/Module 4 Test.md",
     "CALENDAR SESSION OVERVIEW.md",
-    "001 MODULES/M1 Data/Module 1 Test.md",
+    "001 MODULES/System-level tool competencies/01 Overview of System-level.md",
+    "001 MODULES/System-level tool competencies/M0 Continued sessions.md",
+    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
+    "002 LAB SESSIONS/Week 11 LAB GDB to trace C programs.md",
+    "Templates/Lesson Plan.md",
+    "Linked_Content/M0/layering III.md",
+    "Linked_Content/M0/layering V.md",
+    "Linked_Content/M0/layering IV.md",
+    "001 MODULES/M4 Memory/M4 Memory Session.md",
+    "002 LAB SESSIONS/Week 10 LAB Arrays Functions Memory Org.md",
+    "001 MODULES/M3 Execution/Module 3 Test.md",
+    "001 MODULES/M4 Memory/01 Overview Memory.md",
+    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+    "Linked_Content/M2/3 Multiplexer Combinational and Sequential Circuits.md",
+    "002 LAB SESSIONS/Week 5 LAB Gates Multiplexer Combinational Sequential Circuits.md",
     "001 MODULES/M1 Data/M1 Data Sessions.md",
-    "Linked_Content/M0/layering I.md",
-    "Linked_Content/M1/Lecture Floating Point Content.md",
-    "Linked_Content/M0",
-    "Linked_Content/M1/24-bit float.md",
-    "Linked_Content/M1",
-    "Linked_Content/M2",
+    "Gates, Multiplexer/Combinational/Sequential Circuits.md",
+    "Linked_Content/M4/4 Build Process.md",
+    "Linked_Content/M4/3 Memory Org.md",
+    "Linked_Content/M4/2 Functions and stacks.md",
+    "Linked_Content/M4/1 Arrays and structs.md",
+    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+    "Linked_Content/M3/5 Branching.md",
+    "Linked_Content/M3/2 Assembly.md",
+    "Linked_Content/OtherSessions",
     "Gates, Multiplexer/Combinational",
     "Gates, Multiplexer",
-    "Linked_Content/M2/RAM registers, encoding.md",
-    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
-    "Linked_Content/M1/Module 1 Data Summary Session.md",
-    "002 LAB SESSIONS/Week 3 LAB session Cypher, A simple(ish) Caesar cypher.md",
-    "002 LAB SESSIONS/Week 2 LAB session Layering Activities.md",
-    "Course_Overview/Course_Plan.canvas",
-    "README_files",
-    "002 LAB SESSIONS",
-    "COURSE_PLAN/m1_data/L1_BytesText/HelloWorld"
+    "001 MODULES/System-level tool competencies",
+    "003 Summary Sessions",
+    "Linked_Content/M4",
+    "Linked_Content/M3",
+    "LAB ALU",
+    "Linked_Content/M0",
+    "Linked_Content/M1",
+    "Course_Overview/Course_Plan.canvas"
   ]
 }
