@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"text","text":"M0_Layering","id":"fe83b802d0284707","x":-400,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"M1_Data","id":"e6ed8ac4a9924801","x":-400,"y":0,"width":250,"height":60},
+		{"type":"text","text":"M2_Architecture","id":"e9b61e33f13695a4","x":-400,"y":120,"width":250,"height":60},
+		{"type":"text","text":"M3_Execution_fundamentals","id":"26ec5669df2c99bb","x":-400,"y":240,"width":250,"height":60},
+		{"type":"text","text":"M4_Memory","id":"50611b999c5dc0f7","x":-400,"y":360,"width":250,"height":60},
+		{"type":"text","text":"LAB_1 Layering activities","id":"09ef77a153e977b1","x":-20,"y":-90,"width":250,"height":60},
+		{"type":"text","text":"LAB_2 Using UNIX shell\ndata types, bytes, integers, floating points, pointers","id":"5d5f5b17f56a05b8","x":-20,"y":0,"width":250,"height":90},
+		{"type":"text","text":"LAB_3 RAM Registers, encodings","id":"62e181e01dfaf740","x":-20,"y":120,"width":250,"height":60},
+		{"type":"text","text":"LAB_4 Gates, multiplexer, ALU, using objdump to examine data files","id":"960a899af2a60354","x":-20,"y":213,"width":250,"height":87},
+		{"type":"text","text":"LAB_5 ALU mem tracking","id":"08c773a5e2ad8410","x":-20,"y":330,"width":250,"height":60},
+		{"type":"text","text":"LAB_6 Execution, assembly","id":"564dea018a852edc","x":-20,"y":420,"width":250,"height":60},
+		{"type":"text","text":"LAB_7 Register files, RAM, Instruction I and II","id":"d237fee0628742d7","x":-20,"y":500,"width":250,"height":60},
+		{"type":"text","text":"LAB_8 MIPS instructions, branching","id":"d4d9f10d1c924642","x":-20,"y":580,"width":250,"height":60},
+		{"type":"text","text":"course_plan","id":"229ca46608bd19ff","x":-200,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"de8a593273e69315","fromNode":"229ca46608bd19ff","fromSide":"bottom","toNode":"fe83b802d0284707","toSide":"top"},
+		{"id":"a7dac93f2bc70243","fromNode":"fe83b802d0284707","fromSide":"bottom","toNode":"e6ed8ac4a9924801","toSide":"top"},
+		{"id":"bbee5b0eb7739d74","fromNode":"e6ed8ac4a9924801","fromSide":"bottom","toNode":"e9b61e33f13695a4","toSide":"top"},
+		{"id":"427da758f791e1f3","fromNode":"e9b61e33f13695a4","fromSide":"bottom","toNode":"26ec5669df2c99bb","toSide":"top"},
+		{"id":"58e3174c8fc68948","fromNode":"26ec5669df2c99bb","fromSide":"bottom","toNode":"50611b999c5dc0f7","toSide":"top"},
+		{"id":"2d9ae92d23b4532c","fromNode":"fe83b802d0284707","fromSide":"right","toNode":"09ef77a153e977b1","toSide":"left"},
+		{"id":"3564f65be35afc5b","fromNode":"e6ed8ac4a9924801","fromSide":"right","toNode":"5d5f5b17f56a05b8","toSide":"left"},
+		{"id":"9650a99470001581","fromNode":"e9b61e33f13695a4","fromSide":"right","toNode":"62e181e01dfaf740","toSide":"left"},
+		{"id":"f4206532e6381b5f","fromNode":"e9b61e33f13695a4","fromSide":"right","toNode":"960a899af2a60354","toSide":"left"},
+		{"id":"b2e98faf72fac378","fromNode":"26ec5669df2c99bb","fromSide":"right","toNode":"08c773a5e2ad8410","toSide":"left"},
+		{"id":"9a377d3a095c9de7","fromNode":"26ec5669df2c99bb","fromSide":"right","toNode":"564dea018a852edc","toSide":"left"},
+		{"id":"9ad462b71f96108b","fromNode":"50611b999c5dc0f7","fromSide":"right","toNode":"d237fee0628742d7","toSide":"left"},
+		{"id":"ae4133a95a52fcc4","fromNode":"50611b999c5dc0f7","fromSide":"right","toNode":"d4d9f10d1c924642","toSide":"left"}
+	]
+}
