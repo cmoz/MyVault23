@@ -8,7 +8,7 @@
 4. Don't panic, [don't give up](https://youtu.be/dQw4w9WgXcQ) Once you are done with this lab, many things will get easier. Teaching assistants are here to help you if you show them your work so far.
 
 # Milestone 1 - inspect_argv.c
-This program uses a few concepts that you will learn much later in a programming course. This is not trivial stuff, but this is something that you can do it you keep in mind the content from the [[Strings]] lecture.
+This program uses a few concepts that you will learn much later in a programming course. This is not trivial stuff, but this is something that you can do it you keep in mind the content from the [[strings]] lecture.
 
 This program is going to be useful for you to verify your work when you are working with the main program: [[caesar_cypher.c]]. 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md"
+                "file": "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md"
               }
             }
           },
@@ -184,42 +184,42 @@
   },
   "active": "8f82030de6adc946",
   "lastOpenFiles": [
+    "Linked_Content/M3/Execution.md",
+    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+    "Linked_Content/M3/LAB ALU Mem tracing.md",
+    "Linked_Content/M3/ALU Mem Tracing.md",
+    "Linked_Content/M3",
+    "001 MODULES/M2 Architecture/Module 2 Test.md",
+    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+    "Linked_Content/M2/Module 2 Architecture Session Summary.md",
+    "Linked_Content/M2/Gates Multiplexer Combinational Sequential Circuits.md",
+    "Linked_Content/M2/ALU.md",
+    "Linked_Content/M2/Multiplexer Combinational and Sequential Circuits.md",
+    "Linked_Content/M2/RAM registers encoding.md",
+    "Linked_Content/M2/Gates and Logic, Circuits One.md",
+    "Linked_Content/M2/RAM registers.md",
+    "Gates, Multiplexer/Combinational/Sequential Circuits.md",
+    "LAB ALU/Mem tracing.md",
+    "LAB ALU",
     "CALENDAR SESSION OVERVIEW.md",
+    "001 MODULES/M1 Data/Module 1 Test.md",
     "001 MODULES/M1 Data/M1 Data Sessions.md",
+    "Linked_Content/M0/layering I.md",
+    "Linked_Content/M1/Lecture Floating Point Content.md",
+    "Linked_Content/M0",
+    "Linked_Content/M1/24-bit float.md",
+    "Linked_Content/M1",
+    "Linked_Content/M2",
+    "Gates, Multiplexer/Combinational",
+    "Gates, Multiplexer",
+    "Linked_Content/M2/RAM registers, encoding.md",
     "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
-    "Linked_Content/Module 1 Data Summary Session.md",
+    "Linked_Content/M1/Module 1 Data Summary Session.md",
     "002 LAB SESSIONS/Week 3 LAB session Cypher, A simple(ish) Caesar cypher.md",
     "002 LAB SESSIONS/Week 2 LAB session Layering Activities.md",
-    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
-    "002 LAB SESSIONS/Week 1 LAB session.md",
-    "Course_Overview/LABS/Using GPT.md",
-    "Course_Overview/Course Information.md",
     "Course_Overview/Course_Plan.canvas",
-    "Course_Overview/Learning Outcome Mapping.md",
-    "Course_Overview/LABS/Lab Central Resources.md",
-    "Course_Overview/Documents/Course Documents.md",
-    "Linked_Content/Hexadecimal Table.md",
-    "2023-06-15.md",
-    "Linked_Content/strings.md",
-    "Linked_Content/floating points.md",
-    "Linked_Content/IEEE floating point background.md",
-    "Linked_Content/Lecture Floating Point Content.md",
-    "Linked_Content/24-bit float.md",
-    "Linked_Content/integers.md",
     "README_files",
-    "README_files/int README.md",
-    "Linked_Content/bytes.md",
     "002 LAB SESSIONS",
-    "Linked_Content/Bytes and text encoding.md",
-    "Linked_Content/ASCII Table.md",
-    "Linked_Content/HelloWorld.md",
-    "COURSE_PLAN/m1_data/L1_BytesText/HelloWorld",
-    "COURSE_PLAN/m1_data/L1_BytesText",
-    "COURSE_PLAN/m1_data",
-    "course_plan/m1_data/L1_BytesText/HelloWorld",
-    "course_plan/m1_data/L1_BytesText",
-    "course_plan/m1_data",
-    "Course_Overview/LABS",
-    "001 MODULES"
+    "COURSE_PLAN/m1_data/L1_BytesText/HelloWorld"
   ]
 }
