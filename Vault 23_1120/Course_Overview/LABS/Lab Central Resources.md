@@ -1,7 +1,8 @@
-All tags refer to the course's learning outcomes as outlined in the [[Syllabus#Low-Level Learning Outcomes]]
+All tags refer to the course's learning outcomes as outlined in the [[Low-Level Learning Outcomes]]
 
 # Module 0 
 * [Dal FCS tutorial on using our systems](https://web.cs.dal.ca/~tt/ECMM601004/tutorials/CompAtDal/unix.html) 
+
 * Basics of Git for CSC 1120
 	* [[Git, the command line route]]
 	* [[Git, the desktop route]]

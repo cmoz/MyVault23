@@ -3,8 +3,11 @@
 * [Third Edition Git](https://github.com/bitwitch/csapp)
 * [CS:APP3e, Bryant and O'Hallaron (cmu.edu)](http://csapp.cs.cmu.edu/3e/students.html)
 * [Guide to x86 Assembly (virginia.edu)](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) (Module 2)
+* http://csapp.cs.cmu.edu/3e/simguide.pdf
+
 
 ---
+
 
 From Teams with Alex et al:
 
@@ -41,3 +44,109 @@ This is my own perspective on the division between CSCI 1120 and CSCI 2122.
     5. gdb to load a program and step through the code
     
     - **I do not expect students to learn unix administration beyond the above**
+
+
+---
+# Content Areas
+
+Numbers: Binary, Decimal, Hexadecimal
+- Unsigned binary numbers
+- Binary, hex and octal
+- ASCII and Unicode
+- 
+Encoding
+- signed binary numbers: two's compliment
+- floating point numbers
+- graphics
+- arrays (optional)
+- floating point arithmetic (optional)
+- records (optional)
+- image and video data (optional)
+- audio (optional)
+- naming numerous buts (optional)
+
+Combinatorial Logic
+- Combinational Circuits
+- Gates, truth tables, and logic equations
+- Combinational Logic (optional)
+
+Multiple bit components and memory
+- decoders, muxes, and adders
+- Memory elements: Flip-flops, latches, and registers
+- Registers, register files
+
+Components of a CPU
+- Constructing a basic ALU
+- Clocks
+- Timing diagrams
+
+RAM
+- SRAM and DRAM
+- RAM design
+- Buses
+- Virtual memory
+- Chip economics (optional)
+- Composing memory (optional)
+
+MIPS Processor Design
+- Processor Design
+- lw, sw, addi, add, Behavior
+- j/jal
+- beq/bne
+- slt, sub, Verilog (optional)
+- VHDL
+
+MIPS Assembly Part 1
+- Programmable processor concept
+- lw, sw: Load and store instructions
+- addi, add: Add instructions
+- beq, bne, j : Branch and jump instructions
+- A small assembly program
+- Memory alignment and endianness (optional)
+- Comments (optional)
+- sub, mul: Subtraction and multiplication instructions (optional)
+- slt: Set on less than instruction (optional)
+- Input/ Output (optional)
+
+MIPS Assembly Part 2
+- instruction summary
+- simulators
+- load and store with offsets
+- jal/ jr: subroutine instructions
+- Assembly program example: Subroutines
+- Subroutines and the program stack
+- Machine instruction (optional)
+- Jump / branch immediates (optional)
+- Assemblers (optional)
+- Flowcharts and assembly programming (optional)
+
+C to assembly. Expressions and conditionals
+- Assignments
+- Expressions
+- Conserving registers
+- if-else
+- if-else expressions
+
+C to assembly, Arrays and Strings
+- Arrays and strings
+
+C to assembly, Loops and Functions
+- Loops 
+- Functions
+- Compilers
+
+Troubleshooting Process
+- Hypotheses and tests
+- logic of troubleshooting
+- creating hypotheses
+- examples
+
+Programme Debugging
+- basic debugging
+
+Other
+- a survey of RISC architectures for desktop, server, and embedded computers
+- intel 80x86
+- VAX architecture
+- IBM 360/370 architecture for mainframe
+- Historical perspectives and references
