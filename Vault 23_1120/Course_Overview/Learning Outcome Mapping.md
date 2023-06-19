@@ -1,3 +1,5 @@
+[[High-Level Learning Outcomes]]
+[[Low-Level Learning Outcomes]]
 
 ## Module 0 - Layering and basic UNIX skills
 Duration: 2 lectures, 1 short lab to introduce technology platforms

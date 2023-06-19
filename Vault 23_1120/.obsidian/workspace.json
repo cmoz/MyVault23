@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CALENDAR SESSION OVERVIEW.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CALENDAR SESSION OVERVIEW.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CALENDAR SESSION OVERVIEW.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CALENDAR SESSION OVERVIEW.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -182,34 +182,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f82030de6adc946",
+  "active": "15bbe2e6ce414076",
   "lastOpenFiles": [
-    "001 MODULES/M4 Memory/Module 4 Test.md",
+    "Guide.md",
+    "Notes.md",
+    "Course_Overview/LABS/Lab Central Resources.md",
+    "[Guide.md",
+    "Git, the command line route.md",
+    "Git, the desktop route.md",
+    "Linked_Content/OutcomeMapping/Low-Level Learning Outcomes.md",
+    "Syllabus.md",
+    "Low Level Learning outcomes.md",
+    "Course_Overview/Documents/Course Documents.md",
+    "README_files/int README.md",
+    "Linked_Content/OutcomeMapping/Explaining how control structures in C map to assembly.md",
+    "Linked_Content/OutcomeMapping/C programs on Timberlea.md",
+    "Course_Plan.canvas",
+    "Linked_Content/OutcomeMapping/layer model for systems.md",
+    "Linked_Content/OutcomeMapping/Interpreting binary data and converting.md",
+    "Linked_Content/OutcomeMapping/Reading and tracing IA32 x86.md",
+    "Linked_Content/OutcomeMapping/Compiling, disassembling, and running, and observing C programs.md",
+    "Course_Overview/Learning Outcome Mapping.md",
+    "Linked_Content/OutcomeMapping/High-Level Learning Outcomes.md",
+    "Linked_Content/OutcomeMapping/Describe how a program is executed by a computer and the different levels of execution.md",
+    "Linked_Content/OutcomeMapping",
+    "Linked_Content/OutcomeMapping/Interpret the value represented by a binary string given a data representation format..md",
+    "Linked_Content/OutcomeMapping/Explain the concept of layering in computer systems.md",
+    "Linked_Content/OutcomeMapping/Use a UNIX shell to perform simple tasks.md",
     "CALENDAR SESSION OVERVIEW.md",
-    "001 MODULES/System-level tool competencies/01 Overview of System-level.md",
-    "001 MODULES/System-level tool competencies/M0 Continued sessions.md",
-    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
-    "002 LAB SESSIONS/Week 11 LAB GDB to trace C programs.md",
-    "Templates/Lesson Plan.md",
-    "Linked_Content/M0/layering III.md",
-    "Linked_Content/M0/layering V.md",
-    "Linked_Content/M0/layering IV.md",
-    "001 MODULES/M4 Memory/M4 Memory Session.md",
-    "002 LAB SESSIONS/Week 10 LAB Arrays Functions Memory Org.md",
-    "001 MODULES/M3 Execution/Module 3 Test.md",
-    "001 MODULES/M4 Memory/01 Overview Memory.md",
-    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
-    "Linked_Content/M2/3 Multiplexer Combinational and Sequential Circuits.md",
     "002 LAB SESSIONS/Week 5 LAB Gates Multiplexer Combinational Sequential Circuits.md",
-    "001 MODULES/M1 Data/M1 Data Sessions.md",
-    "Gates, Multiplexer/Combinational/Sequential Circuits.md",
-    "Linked_Content/M4/4 Build Process.md",
-    "Linked_Content/M4/3 Memory Org.md",
-    "Linked_Content/M4/2 Functions and stacks.md",
-    "Linked_Content/M4/1 Arrays and structs.md",
-    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
-    "Linked_Content/M3/5 Branching.md",
-    "Linked_Content/M3/2 Assembly.md",
+    "Linked_Content/M0/layering II.md",
     "Linked_Content/OtherSessions",
     "Gates, Multiplexer/Combinational",
     "Gates, Multiplexer",
@@ -218,8 +220,6 @@
     "Linked_Content/M4",
     "Linked_Content/M3",
     "LAB ALU",
-    "Linked_Content/M0",
-    "Linked_Content/M1",
-    "Course_Overview/Course_Plan.canvas"
+    "Linked_Content/M0"
   ]
 }
