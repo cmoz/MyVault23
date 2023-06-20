@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Templates/Lesson Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Templates/Lesson Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Templates/Lesson Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Templates/Lesson Plan.md"
               }
             }
           },
@@ -180,20 +180,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "templater-obsidian:Templater": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "8f82030de6adc946",
   "lastOpenFiles": [
-    "simguide.pdf.md",
+    "CALENDAR SESSION OVERVIEW.md",
     "Notes.md",
+    "simguide.pdf.md",
     "[simguide.pdf.md",
     "001 MODULES/M0 Layering/01 Overview M0 Layering.md",
     "001 MODULES/M1 Data/M1 Data Sessions.md",
     "Linked_Content/M1/4 strings.md",
-    "CALENDAR SESSION OVERVIEW.md",
     "Course_Plan.canvas",
     "Guide.md",
     "Course_Overview/LABS/Lab Central Resources.md",
