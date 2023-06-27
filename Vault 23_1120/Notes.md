@@ -4,6 +4,7 @@
 * [CS:APP3e, Bryant and O'Hallaron (cmu.edu)](http://csapp.cs.cmu.edu/3e/students.html)
 * [Guide to x86 Assembly (virginia.edu)](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) (Module 2)
 * http://csapp.cs.cmu.edu/3e/simguide.pdf
+* [C Standard Library header files - cppreference.com](https://en.cppreference.com/w/c/header) 
 
 
 ---

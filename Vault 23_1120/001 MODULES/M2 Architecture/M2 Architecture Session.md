@@ -10,7 +10,7 @@ Session Four [[4 ALU]] Friday Sept 29
 
 LAB [[Week 5 LAB Gates Multiplexer Combinational Sequential Circuits]] Oct 3
 
-Session Five [[5 ALU Mem Tracing]] Friday Oct 6
+Session Five [[5 The ALU]] Friday Oct 6
 
 [[Week 6 LAB ALU Mem tracing]] Tuesday Oct 10
 

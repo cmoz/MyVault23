@@ -25,7 +25,7 @@
 - Monday Holiday no session
 - Tuesday Oct 3 <font color="#00b050">LAB 4</font>: [[Week 5 LAB Gates Multiplexer Combinational Sequential Circuits]]
 - Wednesday Oct 4 [[Module 1 Test]] <font color="#ffc000">TEST 1 20%</font>
-- Friday Oct 6  [[5 ALU Mem Tracing]] 
+- Friday Oct 6  [[5 The ALU]] 
 -
 - Monday Holiday no session
 - Tuesday Oct 10 <font color="#00b050">LAB 5</font>: [[Week 6 LAB ALU Mem tracing]] 

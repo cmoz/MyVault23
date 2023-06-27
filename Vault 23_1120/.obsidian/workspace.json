@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Lesson Plan.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "right": {
     "id": "f6fbd3a9dc2aae82",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Lesson Plan.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Lesson Plan.md",
+                "file": "CALENDAR SESSION OVERVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Lesson Plan.md"
+                "file": "CALENDAR SESSION OVERVIEW.md"
               }
             }
           },
@@ -187,33 +187,33 @@
   },
   "active": "8f82030de6adc946",
   "lastOpenFiles": [
-    "CALENDAR SESSION OVERVIEW.md",
-    "Notes.md",
-    "simguide.pdf.md",
-    "[simguide.pdf.md",
-    "001 MODULES/M0 Layering/01 Overview M0 Layering.md",
-    "001 MODULES/M1 Data/M1 Data Sessions.md",
-    "Linked_Content/M1/4 strings.md",
-    "Course_Plan.canvas",
-    "Guide.md",
-    "Course_Overview/LABS/Lab Central Resources.md",
-    "[Guide.md",
-    "Git, the command line route.md",
-    "Git, the desktop route.md",
-    "Linked_Content/OutcomeMapping/Low-Level Learning Outcomes.md",
-    "Syllabus.md",
-    "Low Level Learning outcomes.md",
-    "Course_Overview/Documents/Course Documents.md",
     "README_files/int README.md",
-    "Linked_Content/OutcomeMapping/Explaining how control structures in C map to assembly.md",
-    "Linked_Content/OutcomeMapping/C programs on Timberlea.md",
-    "Linked_Content/OutcomeMapping/layer model for systems.md",
-    "Linked_Content/OutcomeMapping/Interpreting binary data and converting.md",
-    "Linked_Content/OutcomeMapping/Reading and tracing IA32 x86.md",
-    "Linked_Content/OutcomeMapping/Compiling, disassembling, and running, and observing C programs.md",
     "Course_Overview/Learning Outcome Mapping.md",
-    "Linked_Content/OutcomeMapping/High-Level Learning Outcomes.md",
-    "Linked_Content/OutcomeMapping/Describe how a program is executed by a computer and the different levels of execution.md",
+    "Course_Overview/Course Information.md",
+    "Course_Overview/LABS/Using GPT.md",
+    "Course_Overview/LABS/Lab Central Resources.md",
+    "Linked_Content/OutcomeMapping/Low-Level Learning Outcomes.md",
+    "CALENDAR SESSION OVERVIEW.md",
+    "Linked_Content/M2/1 RAM registers.md",
+    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+    "Linked_Content/M2/2 Gates and Logic, Circuits One.md",
+    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+    "001 MODULES/M4 Memory/M4 Memory Session.md",
+    "002 LAB SESSIONS/Week 6 LAB ALU Mem tracing.md",
+    "Linked_Content/M2/5 The ALU.md",
+    "001 MODULES/M2 Architecture/01 Overview Architecture and Components.md",
+    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
+    "002 LAB SESSIONS/Week 1 LAB session.md",
+    "002 LAB SESSIONS/Week 2 LAB session Layering Activities.md",
+    "002 LAB SESSIONS/Week 3 LAB session Cypher, A simple(ish) Caesar cypher.md",
+    "Linked_Content/M0/layering III.md",
+    "Linked_Content/M0/layering II.md",
+    "002 LAB SESSIONS/Week 11 LAB GDB to trace C programs.md",
+    "001 MODULES/M0 Layering/01 Overview M0 Layering.md",
+    "Linked_Content/M0/layering I.md",
+    "Templates/Lesson Plan.md",
+    "001 MODULES/M1 Data/M1 Data Sessions.md",
+    "Course_Plan.canvas",
     "Linked_Content/OutcomeMapping",
     "Linked_Content/OtherSessions",
     "Gates, Multiplexer/Combinational",
