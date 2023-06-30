@@ -2,7 +2,7 @@ This lecture is about providing an orientation for the course and introducing th
 
 # Learning outcome
 
-* Explain the concept of layering in computer systems and apply it to examples of systems in computer organization, and programming  languages. (High-level LC)
+* Explain the [[concept of layering]] in computer systems and apply it to examples of systems in computer organization, and programming  languages. (High-level LC)
 
 # Key concepts to cover (lecture plan)
 

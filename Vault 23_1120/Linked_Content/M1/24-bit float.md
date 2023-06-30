@@ -15,3 +15,7 @@ The project `24bitfloat.c` is a strange program that set to 0 the lowest order b
 - [ ] Expand code to perform only 1 operation per statement.
 - [ ] Adjust inline comments to not reveal too much. 
 - [ ] Compare encoding error of 32- and 24-bit with respect to 64-bit encoding?
+
+
+
+This is an int datatype that is unsigned guaranteed to be 32 bits. To use it you need to include the stdint.h. If you are sure that the default `unsigned int` type is always going to be 32 bits, you may be able to just substitute `unsigned int` in its place. But using an explicit 32 bit datatype is preferable. standard types (`int8_t`, `uint8_t` ... `uint32_t`)

@@ -1,6 +1,7 @@
 Session One [[1 Arrays and structs]] Monday Oct 30
 
 LAB [[Week 9 LAB Introduction to GDB]] Tuesday Oct 31
+[Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/#qref) 
 
 Session Two [[2 Functions and stacks]] Wednesday Nov 1
 

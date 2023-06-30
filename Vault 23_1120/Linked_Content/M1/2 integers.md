@@ -87,3 +87,83 @@ Order the following C type `char` from largest to smallest decimal value.$$k=\{0
 ```GPT
 Generate a question that provides a program specification on one integer variable and asks which 32-bit system C data type would be the smallest possible type to use for this variable.
 ```
+
+
+
+---
+
+
+**Introduction (5 minutes):**
+
+- Begin with an overview of what will be covered in the session.
+- Define what an integer is in mathematical terms.
+
+**Basic Properties of Integers (10 minutes):**
+
+- Discuss the basic properties of integers, including the concept of positive and negative numbers, zero, even and odd numbers, prime numbers, etc.
+- Explain the number line and how it can be used to understand addition and subtraction.
+- Discuss the use of integers in basic mathematical operations (addition, subtraction, multiplication, division).
+
+**Integers in Computer Science (15 minutes):**
+
+- Discuss how integers are represented in computer memory, including binary representation and hexadecimal representation.
+- Talk about the range of integers that can be represented in a certain number of bits.
+- Discuss the difference between signed and unsigned integers, including how negative numbers are represented using two's complement.
+
+**Integer Operations in Programming (15 minutes):**
+
+- Discuss how integer operations are performed in programming, including arithmetic operations and bitwise operations.
+- Show examples of integer arithmetic in a common programming language like Python or C++, including potential issues like integer overflow and underflow.
+- Discuss the importance of choosing the right integer type in programming (e.g., short, int, long).
+
+**Practical Exercise (10 minutes):**
+
+- Provide students with a few simple problems to solve using integer arithmetic in a programming language. This could include things like calculating the sum of a list of integers, finding the maximum or minimum integer in a list, or reversing the digits of an integer.
+- Walk around the room to answer questions and provide help as needed.
+
+**Wrap-up and Questions (5 minutes):**
+
+- Summarize the key points from the session.
+- Provide resources for further learning, and encourage students to practice integer operations in programming.
+- Open the floor for any questions and feedback.
+
+
+---
+
+Sample questions and interactive activities you can incorporate into each section of the lecture:
+
+**1. Basic Properties of Integers:**
+
+   *Questions:*
+   - Can you name an integer that is not a whole number?
+   - What does it mean if an integer is odd? How about if it's even?
+   - What is the smallest positive integer?
+
+   *Activity:* Use an interactive number line tool or draw on a board and ask students to indicate where certain integers are located. You could also have them demonstrate addition and subtraction on the number line.
+
+**2. Integers in Computer Science:**
+
+   *Questions:*
+   - How is the integer 7 represented in binary? How about -7 in two's complement?
+   - What is the largest positive integer you can represent with 8 bits in two's complement representation?
+   - What's the difference between signed and unsigned integers?
+
+   *Activity:* Provide a range of integers and have students convert them to binary and hexadecimal. Also, provide binary representations and ask students to convert back to decimal.
+
+**3. Integer Operations in Programming:**
+
+   *Questions:*
+   - What would happen if we add 1 to the largest positive integer we can represent in 8 bits? What's the term for this event?
+   - What is a bitwise operation? Can you give an example?
+   - How do you choose the correct integer type for a specific task in a program?
+
+   *Activity:* Have students write code snippets to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division of integers. Also, let them experiment with bitwise operations and see the outcomes.
+
+**4. Practical Exercise:**
+
+   *Questions:*
+   - What did you find challenging about these exercises?
+   - How would you modify this code to handle larger integers? 
+
+   *Activity:* Provide simple programming problems such as calculating factorial, finding maximum or minimum integer in an array, or counting the number of set bits in an integer's binary representation.
+
