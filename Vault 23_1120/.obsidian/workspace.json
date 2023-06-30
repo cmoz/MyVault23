@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "Linked_Content/concept of layering.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "Linked_Content/concept of layering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+                "file": "Linked_Content/concept of layering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md"
+                "file": "Linked_Content/concept of layering.md"
               }
             }
           },
@@ -185,18 +185,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8f82030de6adc946",
+  "active": "15bbe2e6ce414076",
   "lastOpenFiles": [
-    "001 MODULES/M1 Data/Module 1 Test.md",
-    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
-    "Linked_Content/M0/layering II.md",
-    "Linked_Content/M0/layering I.md",
-    "001 MODULES/M4 Memory/M4 Memory Session.md",
-    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
-    "001 MODULES/M2 Architecture/Module 2 Test.md",
-    "001 MODULES/M1 Data/M1 Data Sessions.md",
+    "Linked_Content/difference between volatile and non-volatile memory.md",
+    "Linked_Content/didn't have RAM.md",
     "Linked_Content/M1/2 integers.md",
     "Linked_Content/M1/1 bytes.md",
+    "Linked_Content/M0/layering I.md",
+    "Linked_Content/M0/layering II.md",
+    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+    "001 MODULES/M1 Data/Module 1 Test.md",
+    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
+    "001 MODULES/M4 Memory/M4 Memory Session.md",
+    "001 MODULES/M2 Architecture/Module 2 Test.md",
+    "001 MODULES/M1 Data/M1 Data Sessions.md",
     "003 Summary Sessions/Module 2 Architecture Summary Session.md",
     "Linked_Content/M2/3 Multiplexer Combinational and Sequential Circuits.md",
     "Linked_Content/M2/2 Gates and Logic, Circuits One.md",
@@ -207,12 +209,10 @@
     "Linked_Content/fetch-decode-execute cycle.md",
     "Linked_Content/why this could be a problem.md",
     "Linked_Content/CPU.md",
-    "bitstable.md",
+    "Linked_Content/bitstable.md",
     "Linked_Content/M2/5 The ALU Mem Tracing.md",
     "Linked_Content/M2/4 ALU.md",
     "001 MODULES/M2 Architecture/Overview Architecture and Components.md",
-    "Linked_Content/M1/3 floating points.md",
-    "Linked_Content/M1/24-bit float.md",
     "Course_Plan.canvas",
     "Linked_Content/OutcomeMapping",
     "Linked_Content/OtherSessions",
