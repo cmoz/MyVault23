@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked_Content/M2/1 RAM registers.md",
+                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked_Content/M2/1 RAM registers.md",
+                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked_Content/M2/1 RAM registers.md",
+                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked_Content/M2/1 RAM registers.md"
+                "file": "001 MODULES/M2 Architecture/M2 Architecture Session.md"
               }
             }
           },
@@ -187,32 +187,32 @@
   },
   "active": "8f82030de6adc946",
   "lastOpenFiles": [
-    "Linked_Content/fetch-decode-execute cycle.md",
+    "001 MODULES/M1 Data/Module 1 Test.md",
+    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
+    "Linked_Content/M0/layering II.md",
+    "Linked_Content/M0/layering I.md",
+    "001 MODULES/M4 Memory/M4 Memory Session.md",
+    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
+    "001 MODULES/M2 Architecture/Module 2 Test.md",
+    "001 MODULES/M1 Data/M1 Data Sessions.md",
+    "Linked_Content/M1/2 integers.md",
+    "Linked_Content/M1/1 bytes.md",
+    "003 Summary Sessions/Module 2 Architecture Summary Session.md",
+    "Linked_Content/M2/3 Multiplexer Combinational and Sequential Circuits.md",
+    "Linked_Content/M2/2 Gates and Logic, Circuits One.md",
     "Linked_Content/M2/1 RAM registers.md",
+    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
+    "001 MODULES/M3 Execution/Module 3 Test.md",
+    "001 MODULES/M3 Execution/Overview Execution Fundamentals.md",
+    "Linked_Content/fetch-decode-execute cycle.md",
     "Linked_Content/why this could be a problem.md",
     "Linked_Content/CPU.md",
-    "001 MODULES/M2 Architecture/M2 Architecture Session.md",
-    "001 MODULES/M3 Execution/M3 Execution Fundamentals Session.md",
-    "001 MODULES/M4 Memory/M4 Memory Session.md",
-    "001 MODULES/M1 Data/M1 Data Sessions.md",
-    "001 MODULES/M0 Layering/M0 Layering Session, a 20,000m view!.md",
-    "Linked_Content/M2/2 Gates and Logic, Circuits One.md",
     "bitstable.md",
-    "003 Summary Sessions/Module 2 Architecture Summary Session.md",
     "Linked_Content/M2/5 The ALU Mem Tracing.md",
     "Linked_Content/M2/4 ALU.md",
-    "Linked_Content/M2/3 Multiplexer Combinational and Sequential Circuits.md",
-    "001 MODULES/M2 Architecture/Module 2 Test.md",
     "001 MODULES/M2 Architecture/Overview Architecture and Components.md",
     "Linked_Content/M1/3 floating points.md",
     "Linked_Content/M1/24-bit float.md",
-    "Linked_Content/M1/2 integers.md",
-    "002 LAB SESSIONS/Week 3 LAB session Cypher, A simple(ish) Caesar cypher.md",
-    "CALENDAR SESSION OVERVIEW.md",
-    "002 LAB SESSIONS/Week 2 LAB session Layering Activities.md",
-    "002 LAB SESSIONS/Week 1 LAB session.md",
-    "Linked_Content/M1/1 bytes.md",
-    "001 MODULES/M4 Memory/Overview Memory.md",
     "Course_Plan.canvas",
     "Linked_Content/OutcomeMapping",
     "Linked_Content/OtherSessions",

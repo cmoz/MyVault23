@@ -2,7 +2,7 @@ Session One [[1 RAM registers]] Friday Sept 22
 
 Session Two [[2 Gates and Logic, Circuits One]] Monday Sept 25
 
-<font color="#ffff00">TODO: By September have items ordered & created </font>Create the gates circuits, have components and they create the gates and see why it does or does not work, then combining them to create other circuits. Make them from Boolean logic e.g. 
+<font color="#ffff00">TODO: By September have items (NPN Transistors, fillament LEDs and simialar) ordered & created </font>Create the gates circuits, have components and they create the gates and see why it does or does not work, then combining them to create other circuits. Make them from Boolean logic e.g. 
 
 LAB [[Week 4 LAB RAM registers encoding]] Tuesday Sept 26
 
